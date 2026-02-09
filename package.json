@@ -1,0 +1,6 @@
+{
+  "name": "create-catalyst",
+  "version": "0.1.0",
+  "bin": "./index.ts",
+  "type": "module"
+}

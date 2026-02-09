@@ -1,6 +1,6 @@
 # create-catalyst
 
-Scaffold a new [Catalyst](https://github.com/your-username/catalyst) project.
+Scaffold a new [Catalyst](https://github.com/Alasdair-Roddick/catalyst) project.
 
 ## Usage
 
